@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Gabriel, This is my Read me</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkls0&label=Profile%20views&color=0e75b6&style=flat" alt="darkls0" /> </p>
-<p align="center"><img src="https://br.pinterest.com/pin/657033033157545758/" alt="McLovin"> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
